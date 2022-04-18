@@ -1,0 +1,15 @@
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\Devan\Documents\Repos\Personal Projects\Calculator\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
